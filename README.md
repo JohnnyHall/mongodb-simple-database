@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/X6bur7W.png" height='300'/>
+  <img src="https://i.imgur.com/GZRBqsu.png" height='300'/>
 </p>
 
 # 🗂️ MongoDB-Simple-Database 
