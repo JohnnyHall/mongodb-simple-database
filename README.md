@@ -3,7 +3,7 @@
 </p>
 
 # 🗂️ MongoDB-Simple-Database 
-> A simple database using MySQL
+> A simple database using MongoDB
 
 ## 📜 Requirements
 1. Docker 20.10 or newer
