@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/X6bur7W.png" height='300'/>
 </p>
 
-# 🗂️ Mongo-Simple-Database 
+# 🗂️ MongoDB-Simple-Database 
 > A simple database using MySQL
 
 ## 📜 Requirements
